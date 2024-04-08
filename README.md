@@ -1,2 +1,2 @@
 
-<a href="https://jeshjangid.github.io/spotify/" target="new" >Preview</a>
+<a href="https://manishmksaini.github.io/spotify-clone/" target="new" >Preview</a>
